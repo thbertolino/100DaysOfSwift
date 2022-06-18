@@ -2,7 +2,6 @@
 <playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Variables'/>
-        <page name='Untitled Page'/>
         <page name='Strings'/>
         <page name='Multline string'/>
         <page name='Doubles and Booleans'/>
