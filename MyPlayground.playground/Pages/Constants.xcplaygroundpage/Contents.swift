@@ -1,0 +1,2 @@
+// Constants
+let taylor = "swift"

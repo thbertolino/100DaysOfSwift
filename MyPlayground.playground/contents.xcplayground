@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Variables'/>
+        <page name='Untitled Page'/>
+        <page name='Strings'/>
+        <page name='Multline string'/>
+        <page name='Doubles and Booleans'/>
+        <page name='String interpolation'/>
+        <page name='Constants'/>
+    </pages>
 </playground>
