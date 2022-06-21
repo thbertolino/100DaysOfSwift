@@ -7,9 +7,3 @@ enum Planet: Int {
 
 let earth = Planet(rawValue: 2)
 
-enum Planet: Int {
-    case mercury = 1
-    case venus
-    case earth
-    case mars
-}
