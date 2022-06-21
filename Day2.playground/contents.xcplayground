@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'/>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Arrays'/>
+        <page name='Sets'/>
+        <page name='Tuples'/>
+        <page name='Arrays vs Sets vs Tuples'/>
+        <page name='Dictionaries'/>
+        <page name='Dictionary default value'/>
+        <page name='Empty collections'/>
+        <page name='Enumerations'/>
+        <page name='Enum values'/>
+        <page name='Enum raw values'/>
+    </pages>
+</playground>
