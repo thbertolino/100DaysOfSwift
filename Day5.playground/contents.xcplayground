@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Functions'/>
+        <page name='Accepting parameters'/>
+        <page name='Returning values'/>
+        <page name='Parameter labels'/>
+        <page name='Omitting parameters'/>
+        <page name='Default parameters'/>
+        <page name='Variadic functions'/>
+        <page name='Writing throwing functions'/>
+        <page name='inout parameters'/>
+    </pages>
+</playground>
