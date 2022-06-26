@@ -15,3 +15,5 @@ Day 5 – functions, parameters, and errors.
 Day 6 – closures part one.
 
 Day 7 – closures part two.
+
+Day 8 – structs, properties, and methods
