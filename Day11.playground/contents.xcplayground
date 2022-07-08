@@ -6,6 +6,5 @@
         <page name='Extensions'/>
         <page name='Protocol extensions'/>
         <page name='Protocol-oriented'/>
-        <page name='Deinitializers'/>
     </pages>
 </playground>

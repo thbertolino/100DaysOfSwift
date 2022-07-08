@@ -13,5 +13,5 @@ struct User: Identifiable {
     var id: String
 }
 
-let thiago = User(id: "thiago")
-thiago.identify()
+let thbertolino = User(id: "thbertolino")
+thbertolino.identify()
