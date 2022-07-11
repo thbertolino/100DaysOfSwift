@@ -4,7 +4,12 @@
         <page name='Handling missing data'/>
         <page name='Unwrapping optionals'/>
         <page name='Unwrapping with guard'/>
-        <page name='Protocol extensions'/>
-        <page name='Protocol-oriented'/>
+        <page name='Force unwrapping'/>
+        <page name='Implicity unwrapping'/>
+        <page name='Nil coalescing'/>
+        <page name='Optional chaining'/>
+        <page name='Optional try'/>
+        <page name='Failable initializers '/>
+        <page name='Typecasting'/>
     </pages>
 </playground>
